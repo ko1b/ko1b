@@ -1,8 +1,8 @@
 - 🙋‍♂️Hi, I'm @ko1b
-- 👋I'm a software developer from the Java ecosphere.
--  Here are few Software principles to begin your tour...
-Software development principles
--------------------------------
+- 👋I'm a software developer from the Java ecosphere   
+
+
+Here are few Software principles to begin your tour...
 DRY - Don’t’ Repeat Yourself   
 KISS - Keep it Simple, Stupid   
 SOLID - Single responsibilty, Open/Close, Liskov substitution, Interface Segregation, Dependency Inversion   
